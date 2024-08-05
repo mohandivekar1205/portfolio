@@ -1,0 +1,37 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.introduction-card{
+    justify-content: auto;
+    margin: 10%;
+    justify-content:center;
+    display: flex;
+}
+
+.introduction-title{
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    margin-top: 1rem;
+}
+
+.introduction-subtext{
+    font-size: 1.3rem;
+    margin: 0%;
+}
+
+.introduction-image-container{
+    height: auto;
+    width: auto;
+}
+
+.contact-btn{
+    margin: 1%;
+    border-color:black;
+    size: 2%;
+    font-size: 1.3rem;
+}
+
